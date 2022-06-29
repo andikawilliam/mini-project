@@ -28,27 +28,6 @@ $ npm i
 $ npm run start 
 ```
 
-## Configure the backend server
-
-**API Server URL** - `src/config/constant.js` 
-
-```javascript
-const config = {
-    ...
-    API_SERVER: 'http://localhost:5000/api/'  // <-- The magic line
-};
-```
-
-<br />
-
-**API Server Descriptor** - POSTMAN Collection
-
-The API Server signature is provided by the [Unified API Definition](https://docs.gmail.com/boilerplate-code/api-unified-definition)
-
-- [API POSTMAN Collection](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json) - can be used to mock (simulate) the backend server or code a new one in your preferred framework. 
-
-<br />
-
 ### Compile the API Server
 
 **Step 1** - Clone the project
