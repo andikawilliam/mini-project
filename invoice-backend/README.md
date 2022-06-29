@@ -44,7 +44,7 @@ The API server will start using the default port `8000`.
 
 <br />
 
-## ✨ Tests
+## Tests
 
 ```bash 
 $ python manage.py test
