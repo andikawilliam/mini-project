@@ -5,13 +5,28 @@ Create a web application with the functionality to generate invoices. The web ap
 - Admin users can perform the following actions:
     - Add user
     - Generate invoice for buyers
-    - Buyer users can perform the following actions:
+    - Buyer users can perform the following actions: View payment page for invoice
 
 
 Framework:
 The web application should be created with the following tech stacks:
 - Frontend:
     - ReactJS
-
 - Backend:
-    - You may choose any backend technology of your choice. Using Django(Python) is preferred.
+    - Django
+    
+---
+
+# Thoughts
+
+### Status
+- Backend & Frontend runs
+- Login and Register 
+- Unfinished main featuers: Add User, Generate Invoice, and User: View payment page for invoice
+
+### Obstacles:
+- Finding the time to work on this on a weekday
+- Haven't used Django in a while, relearning the framework
+
+
+
