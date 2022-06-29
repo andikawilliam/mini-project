@@ -23,6 +23,7 @@ The web application should be created with the following tech stacks:
 - Backend & Frontend runs
 - Login and Register 
 - Unfinished main featuers: Add User, Generate Invoice, and User: View payment page for invoice
+- Unfinished setup: Redux and testing
 
 ### Obstacles:
 - Finding the time to work on this on a weekday
