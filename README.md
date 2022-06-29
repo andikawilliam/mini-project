@@ -1,4 +1,4 @@
-# mini-project
+# Invoice Generator
 
 Create a web application with the functionality to generate invoices. The web application should have the following features:
 • There are 3 types of users: admin, seller, and buyer
